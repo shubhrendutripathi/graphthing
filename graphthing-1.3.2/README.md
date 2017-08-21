@@ -2,11 +2,18 @@
 
 --------------------------------------------------------------------------
 # GraphThing 1.3.2 
-## Shubhrendu Tripathi
+## ported by Shubhrendu Tripathi
 --------------------------------------------------------------------------
 
 This is a port of GraphThing 1.3.2 to wxWidgets 3.0. I have successfully compiled this on Ubuntu 16.04 Xenial 
 using dependencies from the standard Ubuntu repository.
+
+
+
+
+
+
+
 
 
 ORIGINAL README below ->
